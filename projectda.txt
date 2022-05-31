@@ -1,0 +1,19 @@
+As the process of analyzing raw data to find trends and answer questions, the definition of data analytics captures its broad scope of the field.
+However, it includes many techniques with many different goals.
+The data analytics process has some components that can help a variety of initiatives.
+By combining these components, a successful data analytics initiative will provide a clear picture of where you are, where you have been and where you should go.
+Generally, this process begins with descriptive analytics.
+This is the process of describing historical trends in data. 
+Descriptive analytics aims to answer the question “what happened?” This often involves measuring traditional indicators such as return on investment (ROI). 
+The indicators used will be different for each industry. 
+Descriptive analytics does not make predictions or directly inform decisions. 
+It focuses on summarizing data in a meaningful and descriptive way.
+The next essential part of data analytics is advanced analytics. 
+This part of data science takes advantage of advanced tools to extract data, make predictions and discover trends. 
+These tools include classical statistics as well as machine learning. 
+Machine learning technologies such as neural networks, natural language processing, sentiment analysis and more enable advanced analytics. 
+This information provides new insight from data. 
+Advanced analytics addresses “what if?” questions.
+The availability of machine learning techniques, massive data sets, and cheap computing power has enabled the use of these techniques in many industries. 
+The collection of big data sets is instrumental in enabling these techniques. 
+Big data analytics enables businesses to draw meaningful conclusions from complex and varied data sources, which has been made possible by advances in parallel processing and cheap computational power.
